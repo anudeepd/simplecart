@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Raspberry Pi",
+    "description": "The Raspberry Pi is a credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse.",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "title": "Arduino Uno",
+    "description": "The Arduino Uno is a microcontroller board based on the ATmega328",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "title": "DHT11 Sensor",
+    "description": "The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "title": "IR Sensor",
+    "description": "An infrared sensor is an electronic instrument that is used to sense certain characteristics of its surroundings",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "title": "Bluetooth Module",
+    "description": "HC-05 module is an easy to use Bluetooth SPP module, designed for transparent wireless serial connection setup",
+    "price": 25
+  }
+]
